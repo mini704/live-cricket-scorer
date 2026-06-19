@@ -25,7 +25,7 @@
 <!-- 4. Points Table & NRR Screenshot -->
 <image:image>
   <image:loc>https://i.ibb.co/GQtj6LwR/pointstable-page.jpg</image:loc>
-  <image:title>Automatic Points Tables & Tournament Standings</image:title>
+  <image:title>Automatic Points Tables &amp; Tournament Standings</image:title>
   <image:caption>Cricket Points Table Generator - Track tournament rankings with automatic standings and a built-in Net Run Rate (NRR) calculator algorithm.</image:caption>
   <image:geo_location>India</image:geo_location>
 </image:image>
