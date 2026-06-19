@@ -3,15 +3,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="
-    http://www.sitemaps.org/schemas/sitemap/0.9
-    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-    http://www.google.com/schemas/sitemap-image/1.1
-    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                        http://www.google.com/schemas/sitemap-image/1.1
+                        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
 
     <url>
         <loc>https://live-cricket-scorer.netlify.app/</loc>
-        <lastmod>2026-06-19T15:36:00+05:30</lastmod>
+        <lastmod>2026-06-19T15:40:00+05:30</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
 
@@ -78,49 +77,6 @@
             <image:caption>Pabitra Mondal, Lead Full-Stack Developer, Computer Science Student, and Creator of the Live Cricket Scorer ecosystem.</image:caption>
             <image:geo_location>India</image:geo_location>
         </image:image>
-    </url>
-
-    <!-- Additional Section URLs -->
-    <url>
-        <loc>https://live-cricket-scorer.netlify.app/#gallery</loc>
-        <lastmod>2026-06-19T15:36:00+05:30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.95</priority>
-    </url>
-
-    <url>
-        <loc>https://live-cricket-scorer.netlify.app/#in-depth-features</loc>
-        <lastmod>2026-06-19T15:36:00+05:30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.95</priority>
-    </url>
-
-    <url>
-        <loc>https://live-cricket-scorer.netlify.app/#predictions</loc>
-        <lastmod>2026-06-19T15:36:00+05:30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.95</priority>
-    </url>
-
-    <url>
-        <loc>https://live-cricket-scorer.netlify.app/#calculator</loc>
-        <lastmod>2026-06-19T15:36:00+05:30</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.90</priority>
-    </url>
-
-    <url>
-        <loc>https://live-cricket-scorer.netlify.app/#rewards</loc>
-        <lastmod>2026-06-19T15:36:00+05:30</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.88</priority>
-    </url>
-
-    <url>
-        <loc>https://live-cricket-scorer.netlify.app/#faq-section</loc>
-        <lastmod>2026-06-19T15:36:00+05:30</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.80</priority>
     </url>
 
 </urlset>
