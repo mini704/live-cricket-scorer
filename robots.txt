@@ -1,0 +1,22 @@
+Advanced Robots.txt for Live Cricket Scorer
+
+URL: https://live-cricket-scorer.netlify.app/
+
+Allow all major search engine bots to crawl the entire site
+
+User-agent: *
+Allow: /
+
+Specifically ensure Googlebot Image can index your gallery
+
+User-agent: Googlebot-Image
+Allow: /
+
+Specifically ensure Google's mobile bot crawls successfully
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+Point directly to the advanced image sitemap
+
+Sitemap: https://live-cricket-scorer.netlify.app/sitemap.xml
